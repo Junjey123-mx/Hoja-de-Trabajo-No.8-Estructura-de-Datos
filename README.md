@@ -4,3 +4,7 @@ El programa permite procesar fichas de pacientes almacenadas en un archivo pacie
 
 
 Los pacientes pueden ser agregados, atendidos o listados, sin modificar el archivo original. El diseño del proyecto permite alternar entre ambas implementaciones mediante una factoría (FactoryHospital), facilitando pruebas y comparación de estructuras.
+
+
+Link del video corto explicativo:
+https://www.canva.com/design/DAGkTVC71fA/vqccKC2OlTVgJnnsMg3sQA/watch?utm_content=DAGkTVC71fA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcae96170ec
